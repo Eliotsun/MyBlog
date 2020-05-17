@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# __auther__ = 'sunshibin'
+# __auther__ = 'eliot'
 
 from flask import redirect, request, url_for, current_app
 
