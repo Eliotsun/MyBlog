@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# __auther__ = 'sunshibin'
+# __auther__ = 'eliot'
 
 import random
 from MyBlog.models import Admin, Category, Post, Comment
