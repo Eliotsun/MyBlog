@@ -140,7 +140,7 @@ def register_commands(app):
             click.echo('新建管理员账户...')
             admin = Admin(
                 username=username,
-                blog_title='Sunshibin Blog',
+                blog_title='Eliot Blog',
                 name='Eliot',
                 about='Anything about you.'
             )
