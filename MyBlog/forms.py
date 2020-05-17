@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# __auther__ = 'sunshibin'
+# __auther__ = 'eliot'
 
 from flask_wtf import Form
 from wtforms import StringField, PasswordField, BooleanField, SubmitField, TextAreaField, SelectField, ValidationError
