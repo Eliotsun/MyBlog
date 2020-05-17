@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# __auther__ = 'sunshibin'
+# __auther__ = 'eliot'
 
 from flask import Blueprint, render_template, request, current_app, flash, redirect, url_for
 from MyBlog.models import Post, Category, Comment
