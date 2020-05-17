@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# __auther__ = 'sunshibin'
+# __auther__ = 'eliot'
 
 import os
 from flask import Blueprint, render_template, flash, redirect, url_for, request, current_app, send_from_directory
