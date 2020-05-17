@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# __auther__ = 'sunshibin'
+# __auther__ = 'eliot'
 
 from flask_moment import datetime
 from MyBlog.extensions import db
