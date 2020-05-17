@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# __auther__ = 'sunshibin'
+# __auther__ = 'eliot'
 
 from flask import Blueprint, render_template, flash, redirect, url_for
 from MyBlog.forms import LoginForm
