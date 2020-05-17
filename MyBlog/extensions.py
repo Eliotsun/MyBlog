@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# __auther__ = 'sunshibin'
+# __auther__ = 'eliot'
 
 from flask_sqlalchemy import SQLAlchemy
 from flask_ckeditor import CKEditor
